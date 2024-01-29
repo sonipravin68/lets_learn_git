@@ -8,5 +8,6 @@ const plus = (a, b) => {
   return a + b;
 };
 
+
 const addition = plus(2, 3);
 console.log(addition);
